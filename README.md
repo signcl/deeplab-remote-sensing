@@ -9,11 +9,11 @@
 * 预测图片路径：semantic_pytorch/out/result/predict
 * 训练数据列表：train.csv
 * 测试数据列表：test.csv
-* 由于模型文件太大所以请在官网
+* 由于模型文件太大所以请在官网下载 放置到：semantic_pytorch/model
 ```sh  
 https://openbayes.com/console/openbayes/containers/dOPqM4QBeM6 
 ```
-下载 放置到：semantic_pytorch/model
+
 
 # 使用说明
 
